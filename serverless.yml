@@ -16,6 +16,7 @@ plugins:
 provider:
   name: aws
   runtime: nodejs12.x
+  region: ap-southeast-2
 
 package:
   individually: true
